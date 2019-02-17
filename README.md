@@ -1,6 +1,6 @@
 # Behavioral Cloning Project
 
-![Watch the video](https://youtu.be/X8zkBrzscZo)
+[Watch the video](https://youtu.be/X8zkBrzscZo)
 
 ## Project Writeup
 
