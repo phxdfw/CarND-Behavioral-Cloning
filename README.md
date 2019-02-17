@@ -1,10 +1,10 @@
 # Behavioral Cloning Project
 
-![video](https://github.com/phxdfw/CarND-Behavioral-Cloning/blob/master/video.mp4)
+![Watch the video](https://youtu.be/X8zkBrzscZo)
 
 ## Project Writeup
 
-Please view it [here](https://github.com/phxdfw/CarND-Behavioral-Cloning/blob/master/ModelDocumentation.md).
+Please view it [here](https://github.com/phxdfw/CarND-Behavioral-Cloning/blob/master/writeup_report.md).
 
 ## Overview
 ---
